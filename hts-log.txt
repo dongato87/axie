@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Sep 2022 00:54:28 at https://app.axieinfinity.com/marketplace/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://app.axieinfinity.com/marketplace/
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://app.axieinfinity.com/marketplace/ -O1 "C:\Mis lugares Web\mmmmmm" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://app.axieinfinity.com/marketplace/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:55:27	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://app.axieinfinity.com/marketplace/)
+00:55:27	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://app.axieinfinity.com/marketplace/)
+00:55:29	Error: 	"Not Found" (404) at link https://cdn.axieinfinity.com/static/image/axie-background/buy-background.png (from https://cdn.axieinfinity.com/marketplace-website/_next/static/css/18a217a744cd099c_vtVjNyOtYjRWQfRpWRp_A.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 1 seconds : 53 links scanned, 47 files written (13500927 bytes overall) [3276776 bytes received at 53717 bytes/sec], 13174566 bytes transferred using HTTP compression in 44 files, ratio 21%, 3.3 requests per connection
+(3 errors, 0 warnings, 0 messages)
